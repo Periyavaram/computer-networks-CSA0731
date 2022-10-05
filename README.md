@@ -1,2 +1,2 @@
 # computer-networks-CSA0731
-Hub,Switch,Ethernet,Router
+ 1. Hub,Switch,Ethernet,Router
